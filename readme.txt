@@ -1,0 +1,2 @@
+Hi this is python program that genearates a random number from 1 to 100 and ask the user to guess the number .it has to mdoe easy and hard .if the usre choose easy then
+the user will get 10 chance if the user chose hard the user will get 5 chance.This is also from the course 100 days of python
